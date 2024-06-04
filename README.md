@@ -1,7 +1,5 @@
 # Left 4 Dead 2 Autoexec
 
-## Releases Tab is outdated so in the future download directly from Main Source
-
 Just my Autoexec so People can use it if they want :)
 Most Stuff is copied from other cfg's so don't expect to much.
 
