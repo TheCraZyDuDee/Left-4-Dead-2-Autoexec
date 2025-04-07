@@ -102,10 +102,10 @@ My recommended Video Settings for Performance / Latency.
 - Low
 
 ### Multicore Rendering
-- Enabled (expreiment turning it off if bad performance)
+- Enabled (experiment turning it off if bad performance)
 
 ### Paged Pool Memory Available
-- High (expreiment turning it off if bad performance)
+- High (experiment turning it off if bad performance)
 
 
 
