@@ -68,6 +68,47 @@ Go to Steam Libary, rightclick Left 4 Dead 2, click Properties, "Set Launch Opti
 -refresh <value>
 ```
 
+## Recommended Video Settings
+My recommended Video Settings for Performance / Latency.
+
+### Aspect Ratio
+- Set to your desired Aspect Ratio
+
+### Resolution
+- Set to your Screens Resolution, you may lower it if you are playing on a weak system
+
+### Display Mode
+- Fullscreen for best performance / latency
+
+### Film Grain Amount
+- None
+
+### Anti-Aliasing Mode
+- Off
+
+### Filtering Mode
+- Anisotropic 16x
+
+#### Wait for Vertical Sync
+- Off for best performance / latency
+
+### Shader Detail
+- Low
+
+### Effect Detail
+- High (Lower Values affect the Tank Rock, making it pop in if thrown from further away)
+
+### Model / Texture Detail
+- Low
+
+### Multicore Rendering
+- Enabled (expreiment turning it off if bad performance)
+
+### Paged Pool Memory Available
+- High (expreiment turning it off if bad performance)
+
+
+
 ## Add your own Config
 
 If you wanna add your own config you can easily do so by placing your config file in the left4dead2\cfg folder and adding it to the autoexec.
