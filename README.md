@@ -12,6 +12,8 @@ Default Paths:
 Windows: C:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg
 Linux:   /home/user/.local/share/Steam/steamapps/common/Left 4 Dead 2/left4dead2/cfg
 ```
+<i>*Note: If you play under Linux i would recommend setting up a Wine Prefix with the Windows Version of steam and L4D2 as the native version is known for crashing.
+
 Recommended Launch Arguments can be found [here](https://github.com/TheCraZyDuDee/Left-4-Dead-2-Autoexec/blob/main/launch_arguments.md)<br>
 Recommended Video Settings can be found [here](https://github.com/TheCraZyDuDee/Left-4-Dead-2-Autoexec/blob/main/video_settings.md)
 
